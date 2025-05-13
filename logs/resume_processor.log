@@ -1,0 +1,3 @@
+2025-05-13 18:50:11,074 - DEBUG - Starting new HTTPS connection (1): api.generative.engine.capgemini.com:443
+2025-05-13 18:50:13,363 - DEBUG - https://api.generative.engine.capgemini.com:443 "POST /v1/chat/completions HTTP/1.1" 200 451
+2025-05-13 18:50:13,365 - INFO - API connectivity test successful.
