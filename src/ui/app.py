@@ -285,4 +285,4 @@ def run_ui(job_descriptions, process_resumes, test_api_connectivity, api_config,
             st.info("No logs available yet.")
     
     # Footer
-    st.caption("Developed by Capgemini")
+    st.caption("Developed by ♠")
